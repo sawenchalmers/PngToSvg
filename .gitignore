@@ -109,3 +109,5 @@ dmypy.json
 .pyre/
 
 # End of https://www.gitignore.io/api/python
+
+potrace-1.16.win64
